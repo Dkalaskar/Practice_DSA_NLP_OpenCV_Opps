@@ -1,0 +1,10 @@
+Q1. If the employee salary is grether 20000 andd 2000 bonus otherwise add 1000 bonus
+
+psudocode ; 
+salary = 20000
+if salary > 20000;
+   salary = salary + 2000
+   print (salary)
+else:
+    salary = salary + 1000
+    print(salary)   
